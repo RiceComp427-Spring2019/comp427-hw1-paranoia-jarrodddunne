@@ -67,16 +67,24 @@ please cut-and-paste the text from that email here._
 - Assets:
   - Homework submissions
     - Do not want students being able to access other student submissions, either from the previous years or current years, in order to combat potential plagiarism/cheating.
-    - Do not want students altering content/submission date of assignments after the submission deadline has passed.
+    - Do not want students altering content/submission date of their own assignments after the submission deadline has passed.
+    - Do not want students to be able to modify/delete the submissions of other students.
   - Homework solutions
     - Solutions will likely be developed to grade against, do not want students getting access to the solutions, as the homework problems will likely be repeated across semesters/years the class is offered, and solutions being posted online or shared with students would invalidate the homework.
   - Homework grades
     - Grades assigned to individual students must be kept private from other students and other people.
+    - Grades may not be accessed earlier than a specific date and time determined by the professor.
+    - Grades must not be altered by anyone other than authorized teachers, teaching assistants, and other authorized administrative staff.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Late submissions
+    - Students may attempt to submit homework after the deadline, or edit submissions after a deadline.
+    - Students may lie to teaching assistants about getting approval from teacher for late submissions.
+    - Students may use formats that allow for editing after submission (such as google docs, or a github repo).
+  - Modifying submissions
+    - Only teachers and teaching assistants should have access to submissions from students after the submission deadline. Either password protect access to submissions,
 - Countermeasures:
-  - explanatory_paragraph
+    - Teachers and teaching assistants should maintain written record of all authorized late submissions, and either programatically limit late submissions, or timestamp and cross-verify submission timestamp and authorized late submissions for each student.
+    - Submissions in the form of Google Docs, or similar formats with  are not allowed.
   - explanatory_paragraph ...
 
 ## Problem 3
