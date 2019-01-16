@@ -80,11 +80,27 @@ please cut-and-paste the text from that email here._
     - Students may attempt to submit homework after the deadline, or edit submissions after a deadline.
     - Students may lie to teaching assistants about getting approval from teacher for late submissions.
     - Students may use formats that allow for editing after submission (such as google docs, or a github repo).
-  - Modifying submissions
-    - Only teachers and teaching assistants should have access to submissions from students after the submission deadline. Either password protect access to submissions,
+  - Unauthorized grade access
+    - Students may try to gain access to gradebooks, or graded submissions, for purposes of either viewing other student's grades, viewing their own grades early, modifying their grades or other student's grades.
+    - Students may imitate other students in order to view grades or graded solutions, if assignments are returned in person.
+  - Plagiarized submissions
+    - Students may use solutions from other students (either in the same year, or previous years), or solutions found online or in other forms, and attempt to submit these solutions as their own work.
 - Countermeasures:
+  - Late submissions
     - Teachers and teaching assistants should maintain written record of all authorized late submissions, and either programatically limit late submissions, or timestamp and cross-verify submission timestamp and authorized late submissions for each student.
-    - Submissions in the form of Google Docs, or similar formats with  are not allowed.
+    - Submissions in the form of Google Docs, or similar formats where the submission can be edited after the fact are not allowed .
+  - Unauthorized grade access
+    - Physical gradebook
+      - Maintain a 'log' of which teacher or teaching assistant has gradebook at any given time.
+      - Only allow teachers and teaching assistants access to view and edit the gradebook.
+      - Make copies, either through taking pictures of the pages, or entering in some other electronic or physical backup. Do this every so often, so you can verify if grades have been changed, and keep the original and backups in separate locations.
+    - Electronic gradebook
+      - Keep electronic gradebook accessible through some sort of login system, so that only teachers and teaching assistants have access to it.
+      - Keep digital logs of edits to the gradebook.
+      - Ensure there is a way to retrieve history of the gradebook, either through backups, or a revision history.
+  - Plagarized submissions
+    - Run submissions through a plagarism checker (if possible). If not, maybe have a single teacher or teaching assistant grade the same problem for every student, so that person can look for similarities in multiple student's submissions.
+    - Only teachers and teaching assistants should have access to submissions from students after the submission deadline. Either password protect access to submissions,
   - explanatory_paragraph ...
 
 ## Problem 3
