@@ -87,7 +87,7 @@ please cut-and-paste the text from that email here._
     - Students may use solutions from other students (either in the same year, or previous years), or solutions found online or in other forms, and attempt to submit these solutions as their own work.
 - Countermeasures:
   - Late submissions
-    - Teachers and teaching assistants should maintain written record of all authorized late submissions, and either programatically limit late submissions, or timestamp and cross-verify submission timestamp and authorized late submissions for each student.
+    - Teachers and teaching assistants should maintain written record of all authorized late submissions, and either programmatically limit late submissions, or timestamp and cross-verify submission timestamp and authorized late submissions for each student.
     - Submissions in the form of Google Docs, or similar formats where the submission can be edited after the fact are not allowed .
   - Unauthorized grade access
     - Physical gradebook
@@ -98,8 +98,8 @@ please cut-and-paste the text from that email here._
       - Keep electronic gradebook accessible through some sort of login system, so that only teachers and teaching assistants have access to it.
       - Keep digital logs of edits to the gradebook.
       - Ensure there is a way to retrieve history of the gradebook, either through backups, or a revision history.
-  - Plagarized submissions
-    - Run submissions through a plagarism checker (if possible). If not, maybe have a single teacher or teaching assistant grade the same problem for every student, so that person can look for similarities in multiple student's submissions.
+  - Plagiarized submissions
+    - Run submissions through a plagiarism checker (if possible). If not, maybe have a single teacher or teaching assistant grade the same problem for every student, so that person can look for similarities in multiple student's submissions.
     - Only teachers and teaching assistants should have access to submissions from students after the submission deadline. Password protect access to all submissions.
 ## Problem 3
 - Scenario: Company Financial Reports
@@ -119,4 +119,13 @@ please cut-and-paste the text from that email here._
     - An attacker might work at the company, or know someone who does, and gain early access to the report in order to trade on the information before other investors receive the information. Alternatively, the hacker might be able to access the information themselves, if the data is stored or sent over insecure means.
 - Countermeasures:
   - DDOS
-    - Have backup servers or locations to 
+    - Have backup servers or locations to release the information from simultaneously. 
+    - Rotate the server from which the data is released each quarter.
+    - Use a 3rd party email system that would be more resilient to DDOS attacks.
+  - Misinformation
+    - Encourage people to visit known company website for latest information. Alternatively, use a single email address for all official communication with stockholders, and only ever send the release from that email.
+  - Early release
+    - Limit the number of people who have early access to the data to as few people possible.
+    - Monitor incoming and outgoing traffic from servers and computers where the report is stored.
+    - Warn employees of legal and civil consequences of releasing information early.
+    - If you suspect someone releasing the report early, store multiple 'phony' reports on same server with slightly different data/information until release, so that someone may be more reluctant to release or act on the information if there is a chance it is fake.
