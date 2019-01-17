@@ -105,7 +105,8 @@ please cut-and-paste the text from that email here._
 - Scenario: Company Financial Reports
   - You are responsible for releasing a publicly traded company's quarterly financial report to all stock investors and the public.
 - Assumptions:
-  - You must release this information at a specific time, to a public audience.
+  - You must release this information at a specific time, to a public and private audience.
+  - You will release the information publicly through a website, and privately by email.
   - You will not receive this information yourself until a few days ahead of the release.
 - Assets:
   - Company financial information
