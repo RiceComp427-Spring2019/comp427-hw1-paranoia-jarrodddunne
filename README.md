@@ -100,20 +100,23 @@ please cut-and-paste the text from that email here._
       - Ensure there is a way to retrieve history of the gradebook, either through backups, or a revision history.
   - Plagarized submissions
     - Run submissions through a plagarism checker (if possible). If not, maybe have a single teacher or teaching assistant grade the same problem for every student, so that person can look for similarities in multiple student's submissions.
-    - Only teachers and teaching assistants should have access to submissions from students after the submission deadline. Either password protect access to submissions,
-  - explanatory_paragraph ...
-
+    - Only teachers and teaching assistants should have access to submissions from students after the submission deadline. Password protect access to all submissions.
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: Company Financial Reports
+  - You are responsible for releasing a publicly traded company's quarterly financial report to all stock investors and the public.
 - Assumptions:
-  - explain_your_assumptions
+  - You must release this information at a specific time, to a public audience.
+  - You will not receive this information yourself until a few days ahead of the release.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Company financial information
+    - Upon release of this information, the company's stock price will likely jump or fall significantly. If this information is released ahead of time to certain people, this may cause certain investors to get an unfair advantage, and may cause people to be charged with insider trading. Releasing this incorrectly may also open up the company to lawsuits and legal action.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - DDOS
+    - An attacker might attempt to prevent the timely release of the financial report by overloading company servers releasing the information.
+  - Misinformation
+    - An attacker might pose as the company and release or leak incorrect financial reports to investors.
+  - Early release
+    - An attacker might work at the company, or know someone who does, and gain early access to the report in order to trade on the information before other investors receive the information. Alternatively, the hacker might be able to access the information themselves, if the data is stored or sent over insecure means.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
-
+  - DDOS
+    - Have backup servers or locations to 
